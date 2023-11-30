@@ -1,2 +1,2 @@
-# NCIENT_pALET
+# AncientPalette
 this is for understanding project 
